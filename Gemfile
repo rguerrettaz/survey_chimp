@@ -17,6 +17,7 @@ gem 'rake'
 gem 'carrierwave'
 gem 'bcrypt-ruby'
 gem 'mini_magick'
+gem 'newrelic_rpm'
 
 group :test do
   gem 'faker'
